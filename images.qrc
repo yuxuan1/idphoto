@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>idphoto.jpeg</file>
+        <file>red.jpg</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>cut.png</file>
+        <file>zoomin.png</file>
+        <file>zoomout .png</file>
+        <file>open.png</file>
+        <file>about.png</file>
+        <file>backc.png</file>
+        <file>back.png</file>
+        <file>photo.png</file>
+        <file>cutOn.png</file>
+        <file>save.png</file>
+        <file>color.png</file>
+    </qresource>
+</RCC>
