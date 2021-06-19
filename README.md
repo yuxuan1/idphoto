@@ -4,13 +4,7 @@
 
 裁剪功能提供三种裁剪模式：一寸模式(295px*413px)，二寸模式(413px*626px)和自由模式。
 
-换底色支持将底色更改为红色(255, 0, 0)、蓝色(60, 160, 230)、白色(255, 255, 255)和自定义颜色。限于算法，目前仅能对背景纯净的证件照换底色，证件照来自于百度搜索。效果如下：
-
-![截屏2021-06-19 下午9.06.22](/Users/jiangkexuan/Library/Application Support/typora-user-images/截屏2021-06-19 下午9.06.22.png)
-
-![截屏2021-06-19 下午9.06.40](/Users/jiangkexuan/Library/Application Support/typora-user-images/截屏2021-06-19 下午9.06.40.png)
-
-![截屏2021-06-19 下午9.06.55](/Users/jiangkexuan/Library/Application Support/typora-user-images/截屏2021-06-19 下午9.06.55.png)
+换底色支持将底色更改为红色(255, 0, 0)、蓝色(60, 160, 230)、白色(255, 255, 255)和自定义颜色。限于算法，目前仅能对背景纯净的证件照换底色。
 
 ## 局限
 
